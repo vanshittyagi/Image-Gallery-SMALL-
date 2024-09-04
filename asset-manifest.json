@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vanshittyagi/Image-Gallery-SMALL-.git/static/css/main.522a5750.css",
+    "main.js": "/vanshittyagi/Image-Gallery-SMALL-.git/static/js/main.ef5b5f5e.js",
+    "index.html": "/vanshittyagi/Image-Gallery-SMALL-.git/index.html",
+    "main.522a5750.css.map": "/vanshittyagi/Image-Gallery-SMALL-.git/static/css/main.522a5750.css.map",
+    "main.ef5b5f5e.js.map": "/vanshittyagi/Image-Gallery-SMALL-.git/static/js/main.ef5b5f5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.522a5750.css",
+    "static/js/main.ef5b5f5e.js"
+  ]
+}
